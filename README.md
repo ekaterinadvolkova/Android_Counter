@@ -1,4 +1,4 @@
-<h1>Basic Android Counter </h1>
+<h1>Basic Android Counter :innocent: </h1>
 :small_orange_diamond: Android app to check how many cakes you have eaten with  simple User Interface (UI) written on Java;<br>
 :small_orange_diamond: An app has a counter value (initially zero), and three buttons: plus, minus and reset which manipulate the value by incrementing it by 1, decrementing it by 1, and zeroing counter value;<br>
 :small_orange_diamond: Counter has minimum, maximum, starting values and step that are defined by constructor parameters when it is created;<br>
