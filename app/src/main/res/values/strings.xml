@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name"> Count Cakes Honestly</string>
+    <string name="eatenCakes"> 0 </string>
+    <string name="reset">Reset</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="bin">BIN</string>
+    <string name="dec">DEC</string>
+    <string name="hex">HEX</string>
+
+</resources>
